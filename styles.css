@@ -4,8 +4,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
      /* background: radial-gradient(green, yellow); */
+
+     font-family: 'Dosis' , sans-serif;
 }
 
 header {
@@ -20,5 +21,3 @@ header {
     padding: 5px;
     margin: 10px;
 }
-
-.
