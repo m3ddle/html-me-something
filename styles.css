@@ -1,0 +1,24 @@
+body {
+    background: url(images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+     /* background: radial-gradient(green, yellow); */
+}
+
+header {
+
+    text-align: center;
+
+}
+
+.row {
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 2%;
+    padding: 5px;
+    margin: 10px;
+}
+
+.
