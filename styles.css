@@ -15,9 +15,21 @@ header {
 
 }
 
+#header-text {
+    font-weight: 300; 
+    color: white;
+}
+
+article{
+    max-width: 518px;
+}
+
 .row {
     background-color: rgba(255,255,255,0.3);
     border-radius: 2%;
     padding: 5px;
     margin: 10px;
+    display: flex;
+    justify-content:space-between;
 }
+
